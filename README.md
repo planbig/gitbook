@@ -4,4 +4,4 @@
 
 ![](http://bigplandesign.com/gitbook/smartville/gitbook_img-01.jpg)
 
-[](http://bigplandesign.com/gitbook/smartville/gitbook_img-01.jpg)
+[123](http://bigplandesign.com/gitbook/smartville/gitbook_img-01.jpg)
