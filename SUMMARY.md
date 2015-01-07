@@ -6,6 +6,7 @@
    * [操作邏輯](cao_zuo_luo_ji.md)
 * [OOBE](Introduction.md)
    * 設定語言與單位
+   * 設定WiFi
 * 系統功能
 * 字串
 
