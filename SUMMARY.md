@@ -7,6 +7,7 @@
 * [OOBE](Introduction.md)
    * 設定語言與單位
    * 設定WiFi
+   * 註冊帳號
 * 系統功能
 * 字串
 
