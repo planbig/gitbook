@@ -5,5 +5,5 @@
    * [功能架構](gong_neng_jia_gou.md)
 * [OOBE](Introduction.md)
 * 系統功能
-* 系統相關字串
+* 字串
 
